@@ -12,7 +12,8 @@ Anaconda
 Jupyter Notebook
 Python
 
-Authors
+Author:
+
 Muhammad Asim Noor 
 
 License
